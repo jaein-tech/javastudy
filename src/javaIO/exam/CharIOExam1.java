@@ -16,9 +16,10 @@ public class CharIOExam1 {
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-		}
+	
 		System.out.println(line); // console창에 입력한 그대로 다시 console에 나온다.
 	}
 //	반복문등을 통해 여러줄 입력을 받을 수도 있을것이고, 데코레이터 패턴을 이용해서 키보드가 아니라 파일로부터 입력받을 수도 있을것이고,
 //	console창이 아니라 파일이나 array list같은 다른 자료구조를 통해 저장을 할 수도 있을것이다.
+	}
 }
